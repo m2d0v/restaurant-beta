@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Tinos-Regular;
+  src: url("../fonts/Tinos-Regular.ttf");
+}
+@font-face {
+  font-family: Tinos-Bold;
+  src: url("../fonts/Tinos-Bold.ttf");
+}
+@font-face {
+  font-family: Tinos-BoldItalic;
+  src: url("../fonts/Tinos-BoldItalic.ttf");
+}
+@font-face {
+  font-family: Tinos-Italic;
+  src: url("../fonts/Tinos-Italic.ttf");
+}
+@font-face {
+  font-family: Open-Sans;
+  src: url("../fonts/OpenSans-VariableFont_wdth,wght.ttf");
+}
+@font-face {
+  font-family: Cookie;
+  src: url("../fonts/Cookie-Regular.ttf");
+}

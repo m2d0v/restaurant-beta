@@ -1,0 +1,16 @@
+@-webkit-keyframes phone {
+  0% {
+    transform: rotate(12deg);
+  }
+  100% {
+    transform: rotate(-8deg);
+  }
+}
+@keyframes phone {
+  0% {
+    transform: rotate(12deg);
+  }
+  100% {
+    transform: rotate(-8deg);
+  }
+}
